@@ -16,12 +16,12 @@
 }
 .tree{
     height: 100vh;
-    background-image: url(tree-removebg-preview\ \(1\).png);
+    background-image: url(https://github.com/Pitzit456game/carros/blob/main/tree-removebg-preview%20(1).png?raw=true);
     background-repeat:no-repeat;
     background-size: cover;
 }
 .track{
-    background-image: url(track.jpeg);
+    background-image: url(https://github.com/Pitzit456game/carros/blob/main/track.jpeg?raw=true);
     background-repeat: repeat-x;
     position: absolute;
     bottom: 0px;
@@ -30,7 +30,7 @@
     animation: trackanimation 6s linear infinite;
 }
 .car{
-    background-image: url(car-removebg-preview.png);
+    background-image: url(https://github.com/Pitzit456game/carros/blob/main/car-removebg-preview.png?raw=true);
     background-repeat: no-repeat;
     background-size: cover;
     width: 17rem;
@@ -44,7 +44,7 @@
     animation: wheelanimation linear .6s infinite;
 }
 .wheel1{
-    background-image: url(wheel1-removebg-preview.png);
+    background-image: url(https://github.com/Pitzit456game/carros/blob/main/wheel1-removebg-preview.png?raw=true);
     background-size: contain;
     background-repeat: no-repeat;
     width: 46px;
@@ -53,7 +53,7 @@
     left: 570px;
 }
 .wheel2{
-    background-image: url(wheel2-removebg-preview.png);
+    background-image: url(https://github.com/Pitzit456game/carros/blob/main/wheel2-removebg-preview.png?raw=true);
     background-size: cover;
     background-repeat: no-repeat;
     width: 43px;
